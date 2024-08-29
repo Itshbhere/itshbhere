@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFhKA40-mbbmQ/profile-displaybackgroundimage-shrink_350_1400/0/1722427115059?e=1730332800&v=beta&t=JdtuLWTgqi2gIulcWkYTKIVmzXoLivZXzBZg_fih7tc)]
+![MasterHead](https://github.com/itshbhere/itshbhere/blob/main/assets/masterhead.png)
 
 <h1 align="center">Hi 👋, I'm Hafiz Burhan</h1>
 <h3 align="center">A passionate Blockchain Developer</h3>
