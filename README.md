@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/itshbhere/itshbhere/blob/main/assets/masterhead.png)
+![MasterHead](https://github.com/Itshbhere/itshbhere/blob/main/hafizburhan.jpeg)
 
 <h1 align="center">Hi 👋, I'm Hafiz Burhan</h1>
 <h3 align="center">A passionate Blockchain Developer</h3>
