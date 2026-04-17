@@ -1,66 +1,164 @@
-![MasterHead](https://github.com/Itshbhere/itshbhere/blob/main/hafizburhan.jpeg)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Hafiz Burhan</h1>
-<h3 align="center">A passionate Blockchain Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=header&text=Hafiz%20Burhan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20%E2%80%A2%20Post-Quantum%20Cryptography%20%E2%80%A2%20Quantum%20Engineering&descAlignY=58&descSize=16&descColor=ffaaaa" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itshbhere&label=Profile%20views&color=0e75b6&style=flat" alt="itshbhere" /> </p>
-
-<p align="left"> <a href="https://twitter.com/burhanking4" target="blank"><img src="https://img.shields.io/twitter/follow/burhanking4?logo=twitter&style=for-the-badge" alt="burhanking4" /></a> </p>
-
-- 🔭 I’m currently working on **Land Chain**
-
-- 🌱 I’m currently learning **Zero-Knowledge Proofs**
-
-- 💬 Ask me about **Blockchain, Hardhat, Foundry**
-
-- 📫 How to reach me **hafizburhanazhar8@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/burhanking4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burhanking4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad burhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad burhan" height="30" width="40" /></a>
-<a href="https://kaggle.com/hafiz burhan azhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hafiz burhan azhar" height="30" width="40" /></a>
-<a href="https://fb.com/hafiz burhan azhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafiz burhan azhar" height="30" width="40" /></a>
-<a href="https://instagram.com/its_hb_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_hb_here" height="30" width="40" /></a>
-<a href="https://medium.com/@hafiz burhan azhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hafiz burhan azhar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@deathgod-69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@deathgod-69" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itshbhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itshbhere" height="30" width="40" /></a>
+<!-- PROFILE VIEWS + TWITTER FOLLOW -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=itshbhere&label=Profile%20Views&color=cc0000&style=flat-square" alt="profile views" />
+  &nbsp;
+  <a href="https://twitter.com/burhanking4">
+    <img src="https://img.shields.io/twitter/follow/burhanking4?logo=twitter&style=flat-square&color=cc0000&labelColor=1a1a1a" alt="twitter" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a> 
-<a href="https://hardhat.org" target="_blank" rel="noreferrer"> <img src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f6875.svg" alt="hardhat" width="40" height="40"/> </a> 
-<a href="https://getfoundry.sh" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/foundry/foundry-original.svg" alt="foundry" width="40" height="40"/> </a> 
-<a href="https://remix.ethereum.org" target="_blank" rel="noreferrer"> <img src="https://remix.ethereum.org/assets/img/favicon/favicon-32x32.png" alt="remix" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itshbhere&show_icons=true&locale=en&layout=compact" alt="itshbhere" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itshbhere&show_icons=true&locale=en" alt="itshbhere" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itshbhere&" alt="itshbhere" /></p>
+## `> whoami`
+
+```
+Name    : Hafiz Burhan
+Role    : Blockchain Engineer · Post-Quantum Cryptographer · Quantum Engineer
+Email   : hafizburhanazhar8@gmail.com
+Focus   : Decentralized Systems · Lattice-based Cryptography · Zero-Knowledge Proofs
+Status  : ● Building LandChain · Studying ZK Proofs
+```
+
+---
+
+## `> active --missions`
+
+| Project | Domain | Status |
+|---|---|---|
+| 🔴 **Land Chain** | Blockchain · Smart Contracts · ZK | `IN PROGRESS` |
+| 🔴 **Post-Quantum Cryptography** | Kyber · Dilithium · Ed448 · Lattices | `ACTIVE RESEARCH` |
+| 🔴 **Zero-Knowledge Proofs** | ZK-SNARKs · ZK-STARKs · Circom | `LEARNING` |
+| 🔴 **Quantum Engineering** | Shor's · Grover's · Quantum Threat Modeling | `ACTIVE RESEARCH` |
+
+---
+
+## `> tech --stack`
+
+### ⛓ Blockchain & Smart Contracts
+
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-fff04d?style=for-the-badge&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix_IDE-000000?style=for-the-badge&logo=remix&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+---
+
+### 🔐 Cryptography & Security
+
+![Rust](https://img.shields.io/badge/Rust-cc0000?style=for-the-badge&logo=rust&logoColor=white)
+![Post Quantum](https://img.shields.io/badge/Post--Quantum%20Crypto-6d0000?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![ZK Proofs](https://img.shields.io/badge/Zero--Knowledge%20Proofs-8B0000?style=for-the-badge&logo=protonmail&logoColor=white)
+![Ed448](https://img.shields.io/badge/Ed448--Goldilocks-cc2200?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![Kyber](https://img.shields.io/badge/CRYSTALS--Kyber-990000?style=for-the-badge&logo=keybase&logoColor=white)
+![Dilithium](https://img.shields.io/badge/CRYSTALS--Dilithium-7a0000?style=for-the-badge&logo=keycdn&logoColor=white)
+
+---
+
+### 💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-cc0000?style=for-the-badge&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🛢 Backend & Databases
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
+---
+
+### ☁ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+---
+
+## `> threat-model --quantum`
+
+```
+Algorithm        Classical Security    Quantum Threat        PQC Status
+──────────────────────────────────────────────────────────────────────
+RSA-2048         ✅ Strong             ❌ Broken (Shor's)    ⚠ REPLACE
+secp256k1        ✅ Strong             ❌ Broken (Shor's)    ⚠ REPLACE
+AES-256          ✅ Strong             ⚠  Weakened (Grover)  ↑ KEY SIZE
+CRYSTALS-Kyber   N/A                   ✅ Safe (Lattice)     ✅ NIST STD
+CRYSTALS-Dilith. N/A                   ✅ Safe (Lattice)     ✅ NIST STD
+Ed448-Goldilocks ✅ Strong             ❌ Broken (Shor's)    ⚠ REPLACE
+```
+
+---
+
+## `> stats --github`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=itshbhere&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=cc0000&icon_color=cc0000&text_color=ffffff&border_color=cc0000&hide_border=false" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshbhere&layout=compact&theme=dark&bg_color=0d0d0d&title_color=cc0000&text_color=ffffff&border_color=cc0000" />
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=itshbhere&theme=dark&background=0d0d0d&ring=cc0000&fire=ff4444&currStreakLabel=cc0000&border=cc0000" />
+
+</div>
+
+---
+
+## `> connect --channels`
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/burhanking4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-burhan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_hb_here)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hafiz-burhan-azhar)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@deathgod-69)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/hafiz-burhan-azhar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/itshbhere)
+[![Email](https://img.shields.io/badge/Email-cc0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizburhanazhar8@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=100&section=footer&fontSize=14&fontColor=ffffff" />
+
+</div>
